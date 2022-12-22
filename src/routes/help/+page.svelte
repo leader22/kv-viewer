@@ -4,3 +4,7 @@
 
 <h1>Help</h1>
 <p>Hey hey...</p>
+
+<hr>
+
+<a href="/">TOP</a>
